@@ -1,0 +1,22 @@
+/*
+Theme Name: Theme Docker
+Author: murilio
+Author URI: https://github.com/murilio
+Description: tema desenvolvido apenas para fins didáticos, no uso do docker como ambiente de desenvolvimento
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
