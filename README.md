@@ -1,4 +1,4 @@
-Ambiente de desenvolvimento WorsPress com Docker
+Ambiente de desenvolvimento WordPress com Docker
 ==============
 ![Docker Compose](logo.png?raw=true "Docker Compose Logo")
 
